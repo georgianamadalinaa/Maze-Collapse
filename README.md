@@ -1,5 +1,5 @@
 # Maze-Collapse
-Maze Collapse 1 este un joc interactiv în care jucătorii trebuie să navigheze printr-un labirint predefinit evitând obstacolele. Provocarea constă în faptul că jucătorii nu se pot întoarce - odată ce o cale este aleasă, nu mai există cale de întoarcere.
+Maze Collapse 1 este un joc interactiv în care jucătorii trebuie să navigheze printr-un labirint predefinit evitând obstacolele. Provocarea constă în faptul că jucătorii nu se pot întoarce - odată ce o cale este aleasă, nu mai există cale de întoarcere.  
 🎯 Caracteristici Joc  
 ● Sistem Progresiv de Niveluri: Niveluri multiple cu dificultate crescândă  
 ● Evitarea Obstacolelor: Navighează cu atenție pentru a evita obstacolele din labirint  
@@ -25,11 +25,11 @@ Acest proiect implementează 6 șabloane de proiectare esențiale respectând ce
 ● Legea lui Demeter: Încapsulare adecvată folosind this, super și variabile globale  
 
 🧪 Strategie de Testare  
-Testare comprehensivă implementată folosind JUnit:  
-Testare Unitară: Validarea individuală a claselor și metodelor  
-Testare de Integrare: Verificarea interacțiunii componentelor  
-Testare de Performanță: Răspunsul sistemului sub sarcină  
-Testare de Securitate: Identificarea și remedierea vulnerabilităților  
+● Testare comprehensivă implementată folosind JUnit:  
+● Testare Unitară: Validarea individuală a claselor și metodelor  
+● Testare de Integrare: Verificarea interacțiunii componentelor  
+● Testare de Performanță: Răspunsul sistemului sub sarcină  
+● Testare de Securitate: Identificarea și remedierea vulnerabilităților  
 
 Acoperirea Testelor Include:  
 ● Funcționalitatea metodei BaseLevel.play()  
